@@ -8,11 +8,13 @@ As an up-and-coming Frontend Developer I WANT a site that showcases my work as b
 
 ## **Site Link**
 
-Visit my Portfolio here:
+Visit my Portfolio here: https://brooksy236.github.io/Bootstrap-Portfolio/
 
 ## **Screenshots**
 
-
+![](images/Fullscreen_large_view.png)
+![](images/Fullscreen_medium_view.png)
+![](images/Fullscreen_small_view.png)
 
 ## **Installation**
 
@@ -23,3 +25,5 @@ _N/A_
 Peruse my work and click the links to have a closer look at anything.
 
 ## **License**
+
+_N/A_
