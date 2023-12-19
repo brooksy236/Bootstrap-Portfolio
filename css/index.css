@@ -1,0 +1,116 @@
+:root {
+    --bg-primary: rgb(243, 153, 19);
+}
+
+/* Global styles ============= */
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  font-family: Kalnia, san-serif;
+  font-weight: 600;
+  background-color: var(--bg-primary);
+}
+
+a {
+  color: #64501e;
+  transition: all 0.35s;
+  font-family: Kalnia, san-serif;
+}
+
+a:hover,
+a:focus {
+  color: #d45d2d;
+}
+
+hr {
+  max-width: 100px;
+  margin: 25px auto 0;
+  border-width: 1px;
+  border-color: rgba(34, 34, 34, 0.1);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Rubik Doodle Shadow', 'Helvetica', 'Arial', 'sans-serif';
+  font-weight: 200;
+  
+  letter-spacing: 1px;
+}
+
+/* NavBar */
+
+.navbar {
+    background-color: var(--bg-primary);
+    
+}
+
+/* Junbotron */
+
+.jumbotron {
+    background-image: url("../images/IMG_20231206_125455.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+
+.jmb-sub {
+    background-color: rgba(202, 123, 19, 0.836);
+    border: 2px solid rgb(78, 35, 6);    
+}
+
+/* Work Section */
+
+.card-img-top {
+    
+}
+
+.card {
+    padding: 0;
+    background-color: #c9982f;
+}
+
+.row-p2 {
+    padding: 0;
+    margin: 0;
+}
+
+
+/* Footer Section */
+
+footer {
+    padding: 25px 0;
+    text-align: center;
+    color: rgba(24, 18, 18, 0.726);
+    background-color: #b86f1c;
+  }
+  
+  footer p {
+    font-size: 12px;
+    margin: 0;
+  }
+
+
+
+/* 
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) { ... }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... } 
+*/
